@@ -1,0 +1,30 @@
+<%- include('header'); -%>
+<h1 class="titel"> Contacteer ons</h1>
+<p class="tekst"> U kan altijd contact met ons opnemen indien u tickets wil bestellen om onze hele collectie te bewonderen. Ook voor andere vragen staan wij altijd paraat.
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">Voornaam</label>
+    <input type="text" id="fname" name="firstname" placeholder="Uw naam..">
+
+    <label for="lname">Achternaam</label>
+    <input type="text" id="lname" name="lastname" placeholder="Uw achternaam..">
+
+    <label for="country">Reden</label>
+    <select id="country" name="country">
+      <option value="australia">Tickets kopen</option>
+      <option value="canada">Bezoek in groep aanvragen</option>
+      <option value="usa">Algemene vraag</option>
+    </select>
+
+    <label for="subject">Bericht</label>
+    <textarea id="subject" name="subject" placeholder="Typ hier uw bericht.." style="height:200px"></textarea>
+
+    <input type="submit" value="Verzenden">
+
+  </form>
+  <p class="info">
+    <strong>tel:</strong> 0472288279<br>
+    <strong>e-mail:</strong> info@pointillismemuseum.be<br>
+    <strong>adres:</strong> Regentschapsstraat 3, 1000 Brussel</p>
+</div>

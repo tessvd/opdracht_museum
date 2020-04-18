@@ -1,0 +1,124 @@
+{
+  "artwork": [{
+    "title": "Dimanche d'été à la Grande Jatte",
+    "date": "1886",
+    "author": "Georges Seurat",
+    "image": "dimanche.jpg",
+    "imageAlt": "Dimanche d'été à la Grande Jatte",
+    "content": "Het schilderij beeldt het eiland La Grande Jatte af op een zomermiddag in de jaren tachtig van de negentiende eeuw.",
+    "class": "seurat mensen"
+  },{
+    "title": "Baders bij Asnières",
+    "date": "1884",
+    "author": "Georges Seurat",
+    "image": "baders.jpg",
+    "imageAlt": "Baders bij Asnières",
+    "content": "Het toont een aantal mensen aan de rivieroever tijdens een warme zomerdag.",
+    "class": "seurat mensen"
+
+  },{
+    "title": "Het Circus",
+    "date": "1891",
+    "author": "Georges Seurat",
+    "image": "circus.jpg",
+    "imageAlt": "Het Circus",
+    "content": "Het schilderij is geïnspireerd op het op de hoek van de Rue des Martyrs en de Boulevard de Rochechouart gelegen Cirque Fernando.",
+    "class": "seurat mensen"
+  },{
+    "title": "The Eiffel Tower",
+    "date": "1889",
+    "author": "Georges Seurat",
+    "image": "eiffel.jpg",
+    "imageAlt": "The Eiffel Tower",
+    "content": "Een schilderij van de Eiffeltoren.",
+    "class": "seurat landschappen"
+  },{
+    "title": "De Seine bij Courbevoie",
+    "date": "1884",
+    "author": "Georges Seurat",
+    "image": "seine.jpg",
+    "imageAlt": "De Seine bij Courbevoie",
+    "content": "We zien hier de Seine bij Courbevoie, een voorstad ten noordwesten van Parijs.",
+    "class": "seurat landschappen"
+  },{
+    "title": "The Port of Saint-Tropez",
+    "date": "1899",
+    "author": "Paul Signac",
+    "image": "port.jpg",
+    "imageAlt": "the port of saint-tropez",
+    "content": "Op dit schilderij is de haven van Saint-Tropez afgebeeld.",
+    "class": "signac landschappen"
+  },{
+    "title": "Women at the Well",
+    "date": "1892",
+    "author": "Paul Signac",
+    "image": "well.jpg",
+    "imageAlt": "Women at the Well",
+    "content": "In een van de eerste schetsen voor dit schilderij, kan je twee vrouwen zien die bezig zijn met water uit de waterput te halen.",
+    "class": "signac mensen"
+  },{
+    "title": "Venice, The Pink Cloud",
+    "date": "1909",
+    "author": "Paul Signac",
+    "image": "pink.jpg",
+    "imageAlt": "Venice, The Pink Cloud",
+    "content": "We zien Venetië met een mooie zonsondergang.",
+    "class": "signac landschappen"
+  },{
+    "title": "Le port de Rotterdam",
+    "date": "1907",
+    "author": "Paul Signac",
+    "image": "rotterdam.png",
+    "imageAlt": "Le port de Rotterdam",
+    "content": "Op dit schilderij is de haven van Rotterdam afgebeeld.",
+    "class": "signac landschappen"
+  },{
+    "title": "The Red Buoy",
+    "date": "1895",
+    "author": "Paul Signac",
+    "image": "red.jpg",
+    "imageAlt": "The Red Buoy",
+    "content": "Een kleine vissershaven in Saint-Tropez.",
+    "class": "signac landschappen"
+  },{
+    "title": "The Boulevard Montmartre at Night",
+    "date": "1897",
+    "author": "Camille Pissarro",
+    "image": "boulevard.jpg",
+    "imageAlt": "The Boulevard Montmartre at Night",
+    "content": "Het enige schilderij ooit dat de nacht weergeeft",
+    "class": "pissarro landschappen mensen"
+  },{
+    "title": "La Récolte des Foins, Eragny",
+    "date": "1887",
+    "author": "Camille Pissarro",
+    "image": "hooi.jpg",
+    "imageAlt": "La Récolte des Foins, Eragny",
+    "content": "Dit schilderij toont het drukke hooiseizoen in de streek waar Pissarro leefde.",
+    "class": "pissarro landschappen mensen"
+  },{
+    "title": "Peasants' houses, Eragny",
+    "date": "1887",
+    "author": "Camille Pissarro",
+    "image": "peasant.png",
+    "imageAlt": "Peasants' houses",
+    "content": "Een huis van onderdanen.",
+    "class": "pissarro landschappen mensen"
+  },{
+    "title": "Automne, Peupliers, Eragny",
+    "date": "1894",
+    "author": "Camille Pissarro",
+    "image": "automne.png",
+    "imageAlt": "Automne, Peupliers",
+    "content": "Herfstlandschap",
+    "class": "pissarro landschappen"
+  },{
+    "title": "A Washerwoman at Éragny",
+    "date": "1893",
+    "author": "Camille Pissarro",
+    "image": "was.png",
+    "imageAlt": "a washerwoman at Éragny",
+    "content": "Een vrouw die de was doet in Éragny.",
+    "class": "pissarro mensen"
+  }]
+}

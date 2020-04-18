@@ -1,0 +1,11 @@
+<%- include('header'); -%>
+
+<article>
+  <h1 class="titel"><%=post.title %></h1>
+  <p class="content"><%= post.content %></p>
+  <img src="/img/<%=post.image %>" alt="<%=post.imageAlt %>" class="foto"></img><br>
+  <date class="date"><%=post.date %></date>
+  <address class="author"><%=post.author %></address>
+</article>
+
+<%- include('footer'); -%>
